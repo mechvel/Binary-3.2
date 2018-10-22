@@ -16,9 +16,6 @@ Binary-3.2  is a pure, regular-performance, complete, and certified
 
 It has been tested under  Agda 2.5.4, MAlonzo, ghc-7.10.2.
 
-It is also suggested as a replacement for the Bin part in
-Standard library lib-0.16
-(the modules Data.Bin.agda, Data.Bin.Properties.agda).
 
 
 `Pure'  
